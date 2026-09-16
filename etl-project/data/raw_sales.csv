@@ -1,0 +1,16 @@
+order_id,customer_name,region,product,quantity,unit_price,order_date
+1001,Ravi Kumar,South, Laptop ,2,45000,2026-01-05
+1002,Sneha Rao,west,Mouse,5,600,2026-01-06
+1003,,North,Keyboard,3,1200,2026-01-06
+1004,Arjun Reddy,South,Laptop,1,45000,2026-01-07
+1005,Priya Singh,East,Monitor,2,9500,2026-01-08
+1006,Kiran Das,West,Mouse,10,600,2026-01-09
+1007,Meena Iyer,north,Keyboard,-2,1200,2026-01-10
+1008,Rahul Varma,South,Monitor,4,9500,2026-01-11
+1009,Divya Nair,East, Laptop,1,45000,2026-01-12
+1010,Sanjay Gupta,West,Keyboard,6,1200,2026-01-13
+1011,Anitha Reddy,South,Mouse,7,600,2026-01-14
+1012,Vikram Rao,East,Monitor,3,9500,2026-01-15
+1013,,West,Laptop,2,45000,2026-01-16
+1014,Karthik N,North,Mouse,4,600,2026-01-17
+1015,Lakshmi P,South,Keyboard,5,1200,2026-01-18
